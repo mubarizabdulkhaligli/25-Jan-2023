@@ -1,0 +1,14 @@
+/Users/mubarizabdulkhaligli/Desktop/24Jan-homework/homework/homework/bin/Debug/netcoreapp3.1/homework
+/Users/mubarizabdulkhaligli/Desktop/24Jan-homework/homework/homework/bin/Debug/netcoreapp3.1/homework.deps.json
+/Users/mubarizabdulkhaligli/Desktop/24Jan-homework/homework/homework/bin/Debug/netcoreapp3.1/homework.runtimeconfig.json
+/Users/mubarizabdulkhaligli/Desktop/24Jan-homework/homework/homework/bin/Debug/netcoreapp3.1/homework.runtimeconfig.dev.json
+/Users/mubarizabdulkhaligli/Desktop/24Jan-homework/homework/homework/bin/Debug/netcoreapp3.1/homework.dll
+/Users/mubarizabdulkhaligli/Desktop/24Jan-homework/homework/homework/bin/Debug/netcoreapp3.1/homework.pdb
+/Users/mubarizabdulkhaligli/Desktop/24Jan-homework/homework/homework/obj/Debug/netcoreapp3.1/homework.csproj.AssemblyReference.cache
+/Users/mubarizabdulkhaligli/Desktop/24Jan-homework/homework/homework/obj/Debug/netcoreapp3.1/homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mubarizabdulkhaligli/Desktop/24Jan-homework/homework/homework/obj/Debug/netcoreapp3.1/homework.AssemblyInfoInputs.cache
+/Users/mubarizabdulkhaligli/Desktop/24Jan-homework/homework/homework/obj/Debug/netcoreapp3.1/homework.AssemblyInfo.cs
+/Users/mubarizabdulkhaligli/Desktop/24Jan-homework/homework/homework/obj/Debug/netcoreapp3.1/homework.csproj.CoreCompileInputs.cache
+/Users/mubarizabdulkhaligli/Desktop/24Jan-homework/homework/homework/obj/Debug/netcoreapp3.1/homework.dll
+/Users/mubarizabdulkhaligli/Desktop/24Jan-homework/homework/homework/obj/Debug/netcoreapp3.1/homework.pdb
+/Users/mubarizabdulkhaligli/Desktop/24Jan-homework/homework/homework/obj/Debug/netcoreapp3.1/homework.genruntimeconfig.cache
